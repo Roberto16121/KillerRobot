@@ -5,7 +5,7 @@ namespace KillerRobot
     {
         Animal,
         Human,
-        Superheroes
+        Superhero
     }
     public static class Planets
     {

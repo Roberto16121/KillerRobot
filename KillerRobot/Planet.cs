@@ -29,7 +29,7 @@ namespace KillerRobot
                         lifeForms.Add(new Human());
                         break;
                     case 2:
-                        lifeForms.Add(new Superheroes());
+                        lifeForms.Add(new Superhero());
                         break;
                 }
             }

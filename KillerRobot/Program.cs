@@ -13,7 +13,7 @@ class Program
     {
         Planet earth = Planets.earth;
         var robot = new GiantKillerRobot();
-        robot.Target = new List<LifeFormType>{ LifeFormType.Animal, LifeFormType.Human, LifeFormType.Superheroes };
+        robot.Target = new List<LifeFormType>{ LifeFormType.Animal, LifeFormType.Human, LifeFormType.Superhero };
         robot.Initialize(earth);
 
         robot.EyeLaserIntensity = Intensity.GetKillIntensity(robot.CurrentTarget);

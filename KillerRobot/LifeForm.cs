@@ -54,13 +54,13 @@ namespace KillerRobot
         }
     }
 
-    public class Superheroes : Human
+    public class Superhero : Human
     {
-        public Superheroes()
+        public Superhero()
         {
             Health = random.Next(50, 200);
             Armor = random.Next(10, 50);
-            Type = LifeFormType.Superheroes;
+            Type = LifeFormType.Superhero;
         }
     }
     
