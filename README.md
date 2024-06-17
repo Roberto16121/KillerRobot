@@ -2,6 +2,13 @@
 
 ## About
   Proiectul e realizat folosing Console Application. Acesta este împarțit în mai multe clase. 
+  
+  Enunț :
+  
+Killer Robot are misiunea de a elimina toate formele de viață de pe planeta Pământ.
+Robotul are un laser în ochi cu intensitate variabilă și poate să-și selecteze țintele dintre animale, oameni, etc.
+Misiunea robotului este de a distruge toate țintele sale
+
 ## Principalele clase 
 ### GiantKillerRobot
   Este clasa de baza a Robotului în care se stochează proprietățile acestuia cât și metodele aferente.
